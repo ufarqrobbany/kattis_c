@@ -4,8 +4,10 @@ int main() {
     int n, m;
 
     scanf("%d", &n);
-    scanf("%d", &m);
-    printf("%d", n + m);
+
+    m = n - 1;
+
+    printf("%d", m);
 
     return 0;
 }

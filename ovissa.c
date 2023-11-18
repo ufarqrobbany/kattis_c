@@ -3,11 +3,18 @@
 
 int main() {
     char sound[100000];
+    int i, uncertainty;
+
     scanf("%s", &sound);
-    int j = 0;
-    for (int i = 0; i < strlen(sound); i++) {
-        j += 1;
+
+    uncertainty = 0;
+    for (i = 0; i < strlen(sound); i++) {
+        if (sound[i] == 'u') {
+            uncertainty++;
+        }
     }
-    printf("%d\n", j);
+
+    printf("%d", uncertainty);
+
     return 0;
 }
