@@ -312,4 +312,10 @@ feel free to fork if you have a better or alternative solutions to share.
     <td>Easy</td>
     <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/faktor.c">C</a></td>
   </tr>
+  <tr>
+    <td>51</td>
+    <td><a href="https://open.kattis.com/problems/dicecup">Dice Cup</a></td>
+    <td>Easy</td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/dicecup.c">C</a></td>
+  </tr>
 </table>
