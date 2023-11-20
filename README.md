@@ -318,4 +318,10 @@ feel free to fork if you have a better or alternative solutions to share.
     <td>Easy</td>
     <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/dicecup.c">C</a></td>
   </tr>
+  <tr>
+    <td>52</td>
+    <td><a href="https://open.kattis.com/problems/modulo">Modulo</a></td>
+    <td>Easy</td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/modulo.c">C</a></td>
+  </tr>
 </table>
