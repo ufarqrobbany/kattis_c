@@ -328,91 +328,91 @@ feel free to fork if you have a better or alternative solutions to share.
     <td>53</td>
     <td><a href="https://open.kattis.com/problems/filip">Filip</a></td>
     <td>Easy</td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/filip.c">C</a></td>
   </tr>
   <tr>
     <td>54</td>
     <td><a href="https://open.kattis.com/problems/nastyhacks">Nasty Hacks</a></td>
     <td>Easy</td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/nastyhacks.c">C</a></td>
   </tr>
   <tr>
     <td>55</td>
     <td><a href="https://open.kattis.com/problems/heartrate">Heart Rate</a></td>
     <td>Easy</td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/heartrate.c">C</a></td>
   </tr>
   <tr>
     <td>56</td>
     <td><a href="https://open.kattis.com/problems/hissingmicrophone">Hissing Microphone</a></td>
     <td>Easy</td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/hissingmicrophone.c">C</a></td>
   </tr>
   <tr>
     <td>57</td>
     <td><a href="https://open.kattis.com/problems/isithalloween">IsItHalloween.com</a></td>
     <td>Easy</td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/isithalloween.c">C</a></td>
   </tr>
   <tr>
     <td>58</td>
     <td><a href="https://open.kattis.com/problems/chanukah">Chanukah Challenge</a></td>
     <td>Easy</td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/chanukah.c">C</a></td>
   </tr>
   <tr>
     <td>59</td>
     <td><a href="https://open.kattis.com/problems/lastfactorialdigit">Last Factorial Digit</a></td>
     <td>Easy</td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/lastfactorialdigit.c">C</a></td>
   </tr>
   <tr>
     <td>60</td>
     <td><a href="https://open.kattis.com/problems/pieceofcake2">Piece of Cake!</a></td>
     <td>Easy</td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/pieceofcake2.c">C</a></td>
   </tr>
   <tr>
     <td>61</td>
     <td><a href="https://open.kattis.com/problems/ratingproblems">Rating Problems</a></td>
     <td>Easy</td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/ratingproblems.c">C</a></td>
   </tr>
   <tr>
     <td>62</td>
     <td><a href="https://open.kattis.com/problems/cprnummer">CPR Number</a></td>
     <td>Easy</td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/cprnummer.c">C</a></td>
   </tr>
   <tr>
     <td>63</td>
     <td><a href="https://open.kattis.com/problems/sorttwonumbers">Sort Two Numbers</a></td>
     <td>Easy</td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/sorttwonumbers.c">C</a></td>
   </tr>
   <tr>
     <td>64</td>
     <td><a href="https://open.kattis.com/problems/knotknowledge">Knot Knowledge</a></td>
     <td>Easy</td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/knotknowledge.c">C</a></td>
   </tr>
   <tr>
     <td>65</td>
     <td><a href="https://open.kattis.com/problems/triarea">Triangle Area</a></td>
     <td>Easy</td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/triarea.c">C</a></td>
   </tr>
   <tr>
     <td>66</td>
     <td><a href="https://open.kattis.com/problems/findingana">Finding An A</a></td>
     <td>Easy</td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/findingana.c">C</a></td>
   </tr>
   <tr>
     <td>67</td>
     <td><a href="https://open.kattis.com/problems/eyeofsauron">Eye of Sauron</a></td>
     <td>Easy</td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/eyeofsauron.c">C</a></td>
   </tr>
   <tr>
     <td>68</td>
