@@ -324,4 +324,172 @@ feel free to fork if you have a better or alternative solutions to share.
     <td>Easy</td>
     <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/modulo.c">C</a></td>
   </tr>
+  <tr>
+    <td>53</td>
+    <td><a href="https://open.kattis.com/problems/filip">Filip</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>54</td>
+    <td><a href="https://open.kattis.com/problems/nastyhacks">Nasty Hacks</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>55</td>
+    <td><a href="https://open.kattis.com/problems/heartrate">Heart Rate</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>56</td>
+    <td><a href="https://open.kattis.com/problems/hissingmicrophone">Hissing Microphone</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>57</td>
+    <td><a href="https://open.kattis.com/problems/isithalloween">IsItHalloween.com</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>58</td>
+    <td><a href="https://open.kattis.com/problems/chanukah">Chanukah Challenge</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>59</td>
+    <td><a href="https://open.kattis.com/problems/lastfactorialdigit">Last Factorial Digit</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>60</td>
+    <td><a href="https://open.kattis.com/problems/pieceofcake2">Piece of Cake!</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>61</td>
+    <td><a href="https://open.kattis.com/problems/ratingproblems">Rating Problems</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>62</td>
+    <td><a href="https://open.kattis.com/problems/cprnummer">CPR Number</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>63</td>
+    <td><a href="https://open.kattis.com/problems/sorttwonumbers">Sort Two Numbers</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>64</td>
+    <td><a href="https://open.kattis.com/problems/knotknowledge">Knot Knowledge</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>65</td>
+    <td><a href="https://open.kattis.com/problems/triarea">Triangle Area</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>66</td>
+    <td><a href="https://open.kattis.com/problems/findingana">Finding An A</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>67</td>
+    <td><a href="https://open.kattis.com/problems/eyeofsauron">Eye of Sauron</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>68</td>
+    <td><a href="https://open.kattis.com/problems/countthevowels">Count the Vowels</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>69</td>
+    <td><a href="https://open.kattis.com/problems/pokechat">Pokechat</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>70</td>
+    <td><a href="https://open.kattis.com/problems/undeadoralive">Undead or Alive</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>71</td>
+    <td><a href="https://open.kattis.com/problems/classfieldtrip">Class Field Trip</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>72</td>
+    <td><a href="https://open.kattis.com/problems/cutthenegativity">Cut the Negativity</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>73</td>
+    <td><a href="https://open.kattis.com/problems/internationaldates">International Dates</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>74</td>
+    <td><a href="https://open.kattis.com/problems/ekkidaudi">Ekki dauði opna inni</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>75</td>
+    <td><a href=""></a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>76</td>
+    <td><a href=""></a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>77</td>
+    <td><a href=""></a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>78</td>
+    <td><a href=""></a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>79</td>
+    <td><a href=""></a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>80</td>
+    <td><a href=""></a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
 </table>
