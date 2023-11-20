@@ -214,12 +214,102 @@ feel free to fork if you have a better or alternative solutions to share.
     <td>34</td>
     <td><a href="https://open.kattis.com/problems/umferd">Umferð</a></td>
     <td>Easy</td>
-    <td><a href="">C</a></td>
+    <td><a href=""></a></td>
   </tr>
   <tr>
     <td>35</td>
     <td><a href="https://open.kattis.com/problems/flytibaka">Flýtibaka</a></td>
     <td>Easy</td>
-    <td><a href="">C</a></td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>36</td>
+    <td><a href="https://open.kattis.com/problems/monopol">Monopoly</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>37</td>
+    <td><a href="https://open.kattis.com/problems/bijele">Bijele</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>38</td>
+    <td><a href="https://open.kattis.com/problems/carrots">Solving for Carrots</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>39</td>
+    <td><a href="https://open.kattis.com/problems/weakvertices">Weak Vertices</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>40</td>
+    <td><a href="https://open.kattis.com/problems/cold">Cold-puter Science</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>41</td>
+    <td><a href="https://open.kattis.com/problems/oddities">Oddities</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>42</td>
+    <td><a href="https://open.kattis.com/problems/everywhere">I've Been Everywhere, Man</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>43</td>
+    <td><a href="https://open.kattis.com/problems/detaileddifferences">Detailed Differences</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>44</td>
+    <td><a href="https://open.kattis.com/problems/bela">Bela</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>45</td>
+    <td><a href="https://open.kattis.com/problems/timeloop">Stuck In A Time Loop</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>46</td>
+    <td><a href="https://open.kattis.com/problems/twostones">Take Two Stones</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>47</td>
+    <td><a href="https://open.kattis.com/problems/fizzbuzz">FizzBuzz</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>48</td>
+    <td><a href="https://open.kattis.com/problems/grassseed">Grass Seed Inc.</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>49</td>
+    <td><a href="https://open.kattis.com/problems/tarifa">Tarifa</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>50</td>
+    <td><a href="https://open.kattis.com/problems/faktor">Faktor</a></td>
+    <td>Easy</td>
+    <td><a href=""></a></td>
   </tr>
 </table>
