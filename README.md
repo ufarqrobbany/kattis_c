@@ -198,4 +198,28 @@ feel free to fork if you have a better or alternative solutions to share.
     <td>Easy</td>
     <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/oddecho.c">C</a></td>
   </tr>
+  <tr>
+    <td>32</td>
+    <td><a href="https://open.kattis.com/problems/spritt">Spritt</a></td>
+    <td>Easy</td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/spritt.c">C</a></td>
+  </tr>
+  <tr>
+    <td>33</td>
+    <td><a href="https://open.kattis.com/problems/vedurheidar">Veður - Lokaðar heiðar</a></td>
+    <td>Easy</td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/vedurheidar.c">C</a></td>
+  </tr>
+  <tr>
+    <td>34</td>
+    <td><a href="https://open.kattis.com/problems/umferd">Umferð</a></td>
+    <td>Easy</td>
+    <td><a href="">C</a></td>
+  </tr>
+  <tr>
+    <td>35</td>
+    <td><a href="https://open.kattis.com/problems/flytibaka">Flýtibaka</a></td>
+    <td>Easy</td>
+    <td><a href="">C</a></td>
+  </tr>
 </table>
