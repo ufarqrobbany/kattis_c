@@ -434,7 +434,7 @@ feel free to fork if you have a better or alternative solutions to share.
   </tr>
   <tr>
     <td>71</td>
-    <td><a href="https://open.kattis.com/problems/classfieldtrip">$${\color{red}Class Field Trip}$$</a></td>
+    <td><a href="https://open.kattis.com/problems/classfieldtrip">Class Field Trip</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
@@ -464,187 +464,187 @@ feel free to fork if you have a better or alternative solutions to share.
   </tr>
   <tr>
     <td>76</td>
-    <td><a href="">Sith</a></td>
+    <td><a href="https://open.kattis.com/problems/sith">Sith</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>77</td>
-    <td><a href="">Sóttkví</a></td>
+    <td><a href=https://open.kattis.com/problems/sottkvi"">Sóttkví</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>78</td>
-    <td><a href="">Sibice</a></td>
+    <td><a href="https://open.kattis.com/problems/sibice">Sibice</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>79</td>
-    <td><a href="">Ladder</a></td>
+    <td><a href="https://open.kattis.com/problems/ladder">Ladder</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>80</td>
-    <td><a href="">Trik</a></td>
+    <td><a href="https://open.kattis.com/problems/trik">Trik</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>80</td>
-    <td><a href="">Cetvrta</a></td>
+    <td><a href="https://open.kattis.com/problems/cetvrta">Cetvrta</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>80</td>
-    <td><a href="">Reversed Binary Numbers</a></td>
+    <td><a href="https://open.kattis.com/problems/reversebinary">Reversed Binary Numbers</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>81</td>
-    <td><a href="">Encoded Message</a></td>
+    <td><a href="https://open.kattis.com/problems/encodedmessage">Encoded Message</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>82</td>
-    <td><a href="">Kornislav</a></td>
+    <td><a href="https://open.kattis.com/problems/kornislav">Kornislav</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>83</td>
-    <td><a href="">Pet</a></td>
+    <td><a href="https://open.kattis.com/problems/pet">Pet</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>84</td>
-    <td><a href="">Odd Man Out</a></td>
+    <td><a href="https://open.kattis.com/problems/oddmanout">Odd Man Out</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>85</td>
-    <td><a href="">Spavanac</a></td>
+    <td><a href="https://open.kattis.com/problems/spavanac">Spavanac</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>86</td>
-    <td><a href="">Apaxiaaaaaaaaaaaans!</a></td>
+    <td><a href="https://open.kattis.com/problems/apaxiaaans">Apaxiaaaaaaaaaaaans!</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>87</td>
-    <td><a href="">Cryptographer's Conundrum</a></td>
+    <td><a href="https://open.kattis.com/problems/conundrum">Cryptographer's Conundrum</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>88</td>
-    <td><a href="">Stand on Zanzibar</a></td>
+    <td><a href="https://open.kattis.com/problems/zanzibar">Stand on Zanzibar</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>89</td>
-    <td><a href="">Pot</a></td>
+    <td><a href="https://open.kattis.com/problems/pot">Pot</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>90</td>
-    <td><a href="">Zamka</a></td>
+    <td><a href="https://open.kattis.com/problems/zamka">Zamka</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>91</td>
-    <td><a href="">The Amazing Human Cannonball</a></td>
+    <td><a href="https://open.kattis.com/problems/humancannonball2">The Amazing Human Cannonball</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>92</td>
-    <td><a href="">Seven Wonders</a></td>
+    <td><a href="https://open.kattis.com/problems/sevenwonders">Seven Wonders</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>93</td>
-    <td><a href="">R2</a></td>
+    <td><a href="https://open.kattis.com/problems/r2">R2</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>94</td>
-    <td><a href="">Cudoviste</a></td>
+    <td><a href="https://open.kattis.com/problems/cudoviste">Cudoviste</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>95</td>
-    <td><a href="">Number Fun</a></td>
+    <td><a href="https://open.kattis.com/problems/numberfun">Number Fun</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>96</td>
-    <td><a href="">DRM Messages</a></td>
+    <td><a href="https://open.kattis.com/problems/drmmessages">DRM Messages</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>97</td>
-    <td><a href="">Batter Up</a></td>
+    <td><a href="https://open.kattis.com/problems/batterup">Batter Up</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>98</td>
-    <td><a href="">No Duplicates</a></td>
+    <td><a href="https://open.kattis.com/problems/nodup">No Duplicates</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>99</td>
-    <td><a href="">Shattered Cake</a></td>
+    <td><a href="https://open.kattis.com/problems/shatteredcake">Shattered Cake</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>100</td>
-    <td><a href="">Poker Hand</a></td>
+    <td><a href="https://open.kattis.com/problems/pokerhand">Poker Hand</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>101</td>
-    <td><a href="">Sum Squared Digits Function</a></td>
+    <td><a href="https://open.kattis.com/problems/sumsquareddigits">Sum Squared Digits Function</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>102</td>
-    <td><a href="">Relocation</a></td>
+    <td><a href="https://open.kattis.com/problems/relocation">Relocation</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>103</td>
-    <td><a href="">Harshad Numbers</a></td>
+    <td><a href="https://open.kattis.com/problems/harshadnumbers">Harshad Numbers</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td>104</td>
-    <td><a href="">Janitor Troubles</a></td>
+    <td><a href="https://open.kattis.com/problems/janitortroubles">Janitor Troubles</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
