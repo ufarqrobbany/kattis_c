@@ -418,23 +418,23 @@ feel free to fork if you have a better or alternative solutions to share.
     <td>68</td>
     <td><a href="https://open.kattis.com/problems/countthevowels">Count the Vowels</a></td>
     <td>Easy</td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/countthevowels.c">C</a></td>
   </tr>
   <tr>
     <td>69</td>
     <td><a href="https://open.kattis.com/problems/pokechat">Pokechat</a></td>
     <td>Easy</td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/pokechat.c">C</a></td>
   </tr>
   <tr>
     <td>70</td>
     <td><a href="https://open.kattis.com/problems/undeadoralive">Undead or Alive</a></td>
     <td>Easy</td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/undeadoralive.c">C</a></td>
   </tr>
   <tr>
     <td>71</td>
-    <td><a href="https://open.kattis.com/problems/classfieldtrip">Class Field Trip</a></td>
+    <td><a href="https://open.kattis.com/problems/classfieldtrip">$${\color{red}Class Field Trip}$$</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
@@ -448,13 +448,13 @@ feel free to fork if you have a better or alternative solutions to share.
     <td>73</td>
     <td><a href="https://open.kattis.com/problems/internationaldates">International Dates</a></td>
     <td>Easy</td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/internationaldates.c">C</a></td>
   </tr>
   <tr>
     <td>74</td>
     <td><a href="https://open.kattis.com/problems/ekkidaudi">Ekki dauði opna inni</a></td>
     <td>Easy</td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/ekkidaudi.c">C</a></td>
   </tr>
   <tr>
     <td>75</td>
