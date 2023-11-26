@@ -1,0 +1,27 @@
+#include <stdio.h>
+
+int main() {
+    int N, Q, command, C, X, A, B, i;
+
+    scanf("%d %d", &N, &Q);
+
+    int location[N + 1];
+
+    for (i = 1; i <= N; i++) {
+        scanf("%d", &location[i]);
+    }
+
+    for (i = 0; i < Q; i++) {
+        scanf("%d", &command);
+
+        if (command == 1) {
+            scanf("%d %d", &C, &X);
+            location[C] = X;
+        } else if (command == 2) {
+            scanf("%d %d", &A, &B);
+            printf("%d\n", abs(location[A] - location[B]));
+        }
+    }
+
+    return 0;
+}
