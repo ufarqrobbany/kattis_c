@@ -470,7 +470,7 @@ feel free to fork if you have a better or alternative solutions to share.
   </tr>
   <tr>
     <td>77</td>
-    <td><a href=https://open.kattis.com/problems/sottkvi"">Sóttkví</a></td>
+    <td><a href="https://open.kattis.com/problems/sottkvi">Sóttkví</a></td>
     <td>Easy</td>
     <td><a href=""></a></td>
   </tr>
