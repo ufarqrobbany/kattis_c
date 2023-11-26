@@ -562,13 +562,13 @@ feel free to fork if you have a better or alternative solutions to share.
     <td>90</td>
     <td><a href="https://open.kattis.com/problems/zamka">Zamka</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/zamka.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/zamka.c">C</a></td>
   </tr>
   <tr>
     <td>91</td>
     <td><a href="https://open.kattis.com/problems/humancannonball2">The Amazing Human Cannonball</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/humancannonball.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/humancannonball.c">C</a></td>
   </tr>
   <tr>
     <td>92</td>
@@ -586,7 +586,7 @@ feel free to fork if you have a better or alternative solutions to share.
     <td>94</td>
     <td><a href="https://open.kattis.com/problems/cudoviste">Cudoviste</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/cudoviste.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/cudoviste.c">C</a></td>
   </tr>
   <tr>
     <td>95</td>
