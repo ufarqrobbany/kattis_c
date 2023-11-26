@@ -244,7 +244,7 @@ feel free to fork if you have a better or alternative solutions to share.
     <td>39</td>
     <td><a href="https://open.kattis.com/problems/weakvertices">Weak Vertices</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/weakvertices.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/weakvertices.c">C</a></td>
   </tr>
   <tr>
     <td>40</td>
@@ -436,13 +436,13 @@ feel free to fork if you have a better or alternative solutions to share.
     <td>71</td>
     <td><a href="https://open.kattis.com/problems/classfieldtrip">Class Field Trip</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/classfieldtrip.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/classfieldtrip.c">C</a></td>
   </tr>
   <tr>
     <td>72</td>
     <td><a href="https://open.kattis.com/problems/cutthenegativity">Cut the Negativity</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/cutthenegativity.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/cutthenegativity.c">C</a></td>
   </tr>
   <tr>
     <td>73</td>
@@ -460,103 +460,103 @@ feel free to fork if you have a better or alternative solutions to share.
     <td>75</td>
     <td><a href="https://open.kattis.com/problems/vefthjonatjon">Vefþjónatjón</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/vefthjonatjon.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/vefthjonatjon.c">C</a></td>
   </tr>
   <tr>
     <td>76</td>
     <td><a href="https://open.kattis.com/problems/sith">Sith</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/sith.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/sith.c">C</a></td>
   </tr>
   <tr>
     <td>77</td>
     <td><a href="https://open.kattis.com/problems/sottkvi">Sóttkví</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/sottkvi.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/sottkvi.c">C</a></td>
   </tr>
   <tr>
     <td>78</td>
     <td><a href="https://open.kattis.com/problems/sibice">Sibice</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/sibice.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/sibice.c">C</a></td>
   </tr>
   <tr>
     <td>79</td>
     <td><a href="https://open.kattis.com/problems/ladder">Ladder</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/ladder.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/ladder.c">C</a></td>
   </tr>
   <tr>
     <td>80</td>
     <td><a href="https://open.kattis.com/problems/trik">Trik</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/trik.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/trik.c">C</a></td>
   </tr>
   <tr>
     <td>80</td>
     <td><a href="https://open.kattis.com/problems/cetvrta">Cetvrta</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/cetvrta.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/cetvrta.c">C</a></td>
   </tr>
   <tr>
     <td>80</td>
     <td><a href="https://open.kattis.com/problems/reversebinary">Reversed Binary Numbers</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/reversebinary.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/reversebinary.c">C</a></td>
   </tr>
   <tr>
     <td>81</td>
     <td><a href="https://open.kattis.com/problems/encodedmessage">Encoded Message</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/encodedmessage.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/encodedmessage.c">C</a></td>
   </tr>
   <tr>
     <td>82</td>
     <td><a href="https://open.kattis.com/problems/kornislav">Kornislav</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/kornislav.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/kornislav.c">C</a></td>
   </tr>
   <tr>
     <td>83</td>
     <td><a href="https://open.kattis.com/problems/pet">Pet</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/pet.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/pet.c">C</a></td>
   </tr>
   <tr>
     <td>84</td>
     <td><a href="https://open.kattis.com/problems/oddmanout">Odd Man Out</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/oddmanout.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/oddmanout.c">C</a></td>
   </tr>
   <tr>
     <td>85</td>
     <td><a href="https://open.kattis.com/problems/spavanac">Spavanac</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/spavanac.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/spavanac.c">C</a></td>
   </tr>
   <tr>
     <td>86</td>
     <td><a href="https://open.kattis.com/problems/apaxiaaans">Apaxiaaaaaaaaaaaans!</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/apaxiaaans.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/apaxiaaans.c">C</a></td>
   </tr>
   <tr>
     <td>87</td>
     <td><a href="https://open.kattis.com/problems/conundrum">Cryptographer's Conundrum</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/conundrum.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/conundrum.c">C</a></td>
   </tr>
   <tr>
     <td>88</td>
     <td><a href="https://open.kattis.com/problems/zanzibar">Stand on Zanzibar</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/zanzibar.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/zanzibar.c">C</a></td>
   </tr>
   <tr>
     <td>89</td>
     <td><a href="https://open.kattis.com/problems/pot">Pot</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/pot.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/pot.c">C</a></td>
   </tr>
   <tr>
     <td>90</td>
@@ -574,13 +574,13 @@ feel free to fork if you have a better or alternative solutions to share.
     <td>92</td>
     <td><a href="https://open.kattis.com/problems/sevenwonders">Seven Wonders</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/sevenwonders.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/sevenwonders.c">C</a></td>
   </tr>
   <tr>
     <td>93</td>
     <td><a href="https://open.kattis.com/problems/r2">R2</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/r2.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/r2.c">C</a></td>
   </tr>
   <tr>
     <td>94</td>
@@ -592,7 +592,7 @@ feel free to fork if you have a better or alternative solutions to share.
     <td>95</td>
     <td><a href="https://open.kattis.com/problems/numberfun">Number Fun</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/numberfun.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/numberfun.c">C</a></td>
   </tr>
   <tr>
     <td>96</td>
@@ -604,7 +604,7 @@ feel free to fork if you have a better or alternative solutions to share.
     <td>97</td>
     <td><a href="https://open.kattis.com/problems/batterup">Batter Up</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/batterup.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/batterup.c">C</a></td>
   </tr>
   <tr>
     <td>98</td>
@@ -616,7 +616,7 @@ feel free to fork if you have a better or alternative solutions to share.
     <td>99</td>
     <td><a href="https://open.kattis.com/problems/shatteredcake">Shattered Cake</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/shatteredcake.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/shatteredcake.c">C</a></td>
   </tr>
   <tr>
     <td>100</td>
@@ -628,24 +628,24 @@ feel free to fork if you have a better or alternative solutions to share.
     <td>101</td>
     <td><a href="https://open.kattis.com/problems/sumsquareddigits">Sum Squared Digits Function</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/sumsquareddigits.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/sumsquareddigits.c">C</a></td>
   </tr>
   <tr>
     <td>102</td>
     <td><a href="https://open.kattis.com/problems/relocation">Relocation</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/relocation.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/relocation.c">C</a></td>
   </tr>
   <tr>
     <td>103</td>
     <td><a href="https://open.kattis.com/problems/harshadnumbers">Harshad Numbers</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/harshadnumbers.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/harshadnumbers.c">C</a></td>
   </tr>
   <tr>
     <td>104</td>
     <td><a href="https://open.kattis.com/problems/janitortroubles">Janitor Troubles</a></td>
     <td>Easy</td>
-    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/janitortroubles.c"></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/janitortroubles.c">C</a></td>
   </tr>
 </table>
