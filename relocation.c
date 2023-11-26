@@ -6,6 +6,7 @@ int main() {
 
     scanf("%d %d", &N, &Q);
 
+    // error kalo array location di-deklarasiin diatas dengan maksimal panjang elemen yang ditentuin, misal 1000. Padahal hasilnya sama aja
     int location[N + 1];
 
     for (i = 1; i <= N; i++) {
