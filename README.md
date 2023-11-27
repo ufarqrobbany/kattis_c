@@ -598,7 +598,7 @@ feel free to fork if you have a better or alternative solutions to share.
     <td>96</td>
     <td><a href="https://open.kattis.com/problems/drmmessages">DRM Messages</a></td>
     <td>Easy</td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/drmmessages.c">C</a></td>
   </tr>
   <tr>
     <td>97</td>
@@ -610,7 +610,7 @@ feel free to fork if you have a better or alternative solutions to share.
     <td>98</td>
     <td><a href="https://open.kattis.com/problems/nodup">No Duplicates</a></td>
     <td>Easy</td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/nodup.c">C</a></td>
   </tr>
   <tr>
     <td>99</td>
@@ -622,7 +622,7 @@ feel free to fork if you have a better or alternative solutions to share.
     <td>100</td>
     <td><a href="https://open.kattis.com/problems/pokerhand">Poker Hand</a></td>
     <td>Easy</td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/ufarqrobbany/kattis_c/blob/main/pokerhand.c">C</a></td>
   </tr>
   <tr>
     <td>101</td>
